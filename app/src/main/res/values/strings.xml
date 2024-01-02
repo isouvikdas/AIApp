@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AIApp</string>
+    <string name="topLevelDialogue">Select an image for your interior design</string>
+    <string name="suggestionButtonText">Give me some suggestions</string>
+    <string name="loadingText">Generating response…</string>
+    <string name="suggestionText">ScrollView Wrapping Entire Content: The ScrollView should generally wrap around the entire content that you want to be scrollable. In your case, it wraps the ConstraintLayout, which contains various views like TextView, ImageView, AppCompatButton, and another TextView.</string>
+    <string name="errorText">Something went wrong. Please try again after sometimes</string>
+</resources>
