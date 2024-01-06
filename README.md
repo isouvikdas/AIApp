@@ -1,2 +1,2 @@
 # AIApp
-That's an AI based apk where you can upload a pic of the any part of your home and the AI will tell you how you can design your interior to look better.
+That's an AI based apk which allows the users to upload a pic of the inside of their house and helps with the interior design of the house in text format to look better.
